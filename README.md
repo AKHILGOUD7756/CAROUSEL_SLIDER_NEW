@@ -4,3 +4,7 @@
 #image_slider_new
 <img width="1046" height="535" alt="image" src="https://github.com/user-attachments/assets/6c3443d0-609c-4bc3-ae19-5ac54bc4863e" />
 
+
+## banner carousel with resposive
+<img width="710" height="396" alt="image" src="https://github.com/user-attachments/assets/c1e9fbbd-551e-4aaa-9649-449b79dd1ce0" />
+
